@@ -1,3 +1,3 @@
 # cvb
 cvb
-https://zlatakjshkarova.github.io/cvb/
+ https://zlatakjshkarova.github.io/zlatapractikasobaka/
